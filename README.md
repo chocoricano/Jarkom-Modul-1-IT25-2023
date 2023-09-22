@@ -117,6 +117,15 @@ Jawabannya ada pada wireshark yang pertama packet yang ditangkap ada 60 lalu soa
 
 <a href="https://ibb.co/VYJMbL4"><img src="https://i.ibb.co/TMYPJw3/Screenshot-162.png" alt="Screenshot-162" border="0"></a>
 
+## No 6
+### Soal
+PESAN TERSEMBUNYI
+
+Seorang anak bernama Udin Berteman dengan SlameT yang merupakan seorang penggemar film detektif. sebagai teman yang baik, Ia selalu mengajak slamet untuk bermain valoranT bersama. suatu malam, terjadi sebuah hal yang tak terdUga. ketika udin mereka membuka game tersebut, laptop udin menunjukkan sebuah field text dan Sebuah kode Invalid bertuliskan "server SOURCE ADDRESS 7812 is invalid". ketika ditelusuri di google, hasil pencarian hanya menampilkan a1 e5 u21. jiwa detektif slamet pun bergejolak. bantulah udin dan slamet untuk menemukan solusi kode error tersebut.
+
+### Analisis Soal
+Pada soal diberitahukan server source address 7812 is invalid, dan ketika ditelusuri google menghasilkan a1 e5 u21
+
 
 ## No 7
 
