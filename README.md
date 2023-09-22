@@ -90,6 +90,22 @@ buka nc soal, dan masukkan checksum value yang telah ditemukan tadi sehingga fla
 
 [![JJTyOes.md.jpg](https://iili.io/JJTyOes.md.jpg)](https://freeimage.host/i/JJTyOes)
 
+## No 5
+### Soal
+
+### Analisis Soal
+Pada soal 5 diberi 2 file yaitu file pcap dan zipfile yang berisi file .txt yang dikunci dengan sandi. 
+
+### Jawaban
+Pada saat TCP stream akan memberikan password yang sudah di enkripsi dengan base64
+
+<a href="https://ibb.co/qW3Qb3d"><img src="https://i.ibb.co/xftTVtD/Screenshot-158.png" alt="Screenshot-158" border="0"></a><a href="https://ibb.co/RDTqqrk"><img src="https://i.ibb.co/87gHHvL/Screenshot-159.png" alt="Screenshot-159" border="0"></a>
+
+Pertama tama deskripsikan dulu dengan menggunakan base 64
+
+<a href="https://ibb.co/BKc74mR"><img src="https://i.ibb.co/rfFLbgJ/Screenshot-160.png" alt="Screenshot-160" border="0"></a>
+
+
 ## No 7
 
 ### Soal
