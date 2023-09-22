@@ -68,6 +68,8 @@ dengan menggunakan query  (ip.src == 239.255.255.250 || ip.dst == 239.255.255.25
 Lalu ditanyakan juga protokal yang digunakan yaitu UDP
 <a href="https://ibb.co/BgmZRg8"><img src="https://i.ibb.co/30wNH0t/Screenshot-2023-09-22-123356.png" alt="Screenshot-2023-09-22-123356" border="0"></a>
 
+<a href="https://ibb.co/BgmZRg8"><img src="https://i.ibb.co/BgmZRg8/Screenshot-2023-09-22-123356.png" alt="Screenshot-2023-09-22-123356" border="0"></a>
+
 ## No 4
 
 ### Soal
