@@ -99,11 +99,23 @@ Pada soal 5 diberi 2 file yaitu file pcap dan zipfile yang berisi file .txt yang
 ### Jawaban
 Pada saat TCP stream akan memberikan password yang sudah di enkripsi dengan base64
 
-<a href="https://ibb.co/qW3Qb3d"><img src="https://i.ibb.co/xftTVtD/Screenshot-158.png" alt="Screenshot-158" border="0"></a><a href="https://ibb.co/RDTqqrk"><img src="https://i.ibb.co/87gHHvL/Screenshot-159.png" alt="Screenshot-159" border="0"></a>
+<a href="https://ibb.co/RDTqqrk"><img src="https://i.ibb.co/87gHHvL/Screenshot-159.png" alt="Screenshot-159" border="0"></a>
 
 Pertama tama deskripsikan dulu dengan menggunakan base 64
 
 <a href="https://ibb.co/BKc74mR"><img src="https://i.ibb.co/rfFLbgJ/Screenshot-160.png" alt="Screenshot-160" border="0"></a>
+
+Masukan password pada file txt akan mendapatkan seperti gambar dibawah ini
+
+<a href="https://ibb.co/mXzkK4m"><img src="https://i.ibb.co/VQBRGTd/Screenshot-161.png" alt="Screenshot-161" border="0"></a>
+
+Pada saat connect akan ditanya beberapa pertanyaan
+
+<a href="https://ibb.co/k41w0PY"><img src="https://i.ibb.co/X78KpGm/Screenshot-163.png" alt="Screenshot-163" border="0"></a>
+
+Jawabannya ada pada wireshark yang pertama packet yang ditangkap ada 60 lalu soal kedua ditanyakan port apa yang digunakan yaitu port 25 dan yang terakhir ditanyakan ip public yang ada di pcap adalah 74.53.140.153
+
+<a href="https://ibb.co/VYJMbL4"><img src="https://i.ibb.co/TMYPJw3/Screenshot-162.png" alt="Screenshot-162" border="0"></a>
 
 
 ## No 7
