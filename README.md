@@ -160,5 +160,19 @@ ip.src == 10.51.40.1 && ip.dst != 10.39.55.34
 ### Soal
 Sebutkan kredensial yang benar ketika user mencoba login menggunakan Telnet!
 
+### Analisis soal
+Soal berada pada kategori stream dan pada soal menyebutkan protokol Telnet
 
+### Jawaban 
+Melakukan TCP Stream pada protocol Telnet
+
+<a href="https://ibb.co/gjCqc71"><img src="https://i.ibb.co/r7J8XtP/Screenshot-166.png" alt="Screenshot-166" border="0"></a>
+
+Terdapat beberapa kredetial pada yang terlihat. Pada stream ke 15 bisa dilihat berbeda dari yang lain dengan password kesayangannyak0k0
+
+<a href="https://ibb.co/6tD2xX7"><img src="https://i.ibb.co/94yJLZk/Screenshot-167.png" alt="Screenshot-167" border="0"></a>
+
+untuk menemukan kredential yang tepat adalah menyamakan password yang ada pada stream ke 15
+
+<a href="https://ibb.co/PgCynb9"><img src="https://i.ibb.co/qp18f4W/Screenshot-168.png" alt="Screenshot-168" border="0"></a>
 
