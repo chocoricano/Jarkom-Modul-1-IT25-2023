@@ -5,7 +5,7 @@
 ### Anggota :
 
 - ANDYANA MUHANDHATUL NABILA - 5027211029
-- ANDREAS TIMOTIUS - 5027211
+- ANDREAS TIMOTIUS PARHORASAN SIHOMBING - 5027211019
 
 ## No 1
 
@@ -61,7 +61,11 @@ nc 10.21.78.111 13590
 Pada saat kita melakukan nc 10.21.78.111 13590 pada terminal diminta untuk menghitung banyak paket yang tercapture dengan IP source maupun destination address adalah 239.255.255.250 dengan port 3702
 #### Jawaban
 dengan menggunakan query  (ip.src == 239.255.255.250 || ip.dst == 239.255.255.250) && udp.port == 3702 untuk memfilter paket, terdapat 16 paket
-<a href="https://ibb.co/BgmZRg8"><img src="https://i.ibb.co/30wNH0t/Screenshot-2023-09-22-123356.png" alt="Screenshot-2023-09-22-123356" border="0"></a>
+
+
+<a href="https://ibb.co/NyKnzcN"><img src="https://i.ibb.co/z4ZHwq2/Screenshot-2023-09-22-124236.png" alt="Screenshot-2023-09-22-124236" border="0"></a>
+
+Lalu ditanyakan juga protokal yang digunakan yaitu UDP
 <a href="https://ibb.co/BgmZRg8"><img src="https://i.ibb.co/30wNH0t/Screenshot-2023-09-22-123356.png" alt="Screenshot-2023-09-22-123356" border="0"></a>
 
 ## No 4
