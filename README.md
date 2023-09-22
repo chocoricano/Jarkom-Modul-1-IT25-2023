@@ -126,6 +126,17 @@ Seorang anak bernama Udin Berteman dengan SlameT yang merupakan seorang penggema
 ### Analisis Soal
 Pada soal diberitahukan server source address 7812 is invalid, dan ketika ditelusuri google menghasilkan a1 e5 u21
 
+### Jawaban
+coba lihat ip pada packet ke 7812, karena diberikan hint SOURCE ADDRESS ADALAH KUNCI SEMUANYA. lalu decode menggunakan A1Z26 yang diberikan pada hint
+
+<a href="https://ibb.co/SB4Mcv0"><img src="https://i.ibb.co/rHRz3yM/Screenshot-171.png" alt="Screenshot-171" border="0"></a>
+
+Masukan hasil dari chiper A1
+
+<a href="https://ibb.co/qY8Z6Q3"><img src="https://i.ibb.co/7tD9hmd/Screenshot-169.png" alt="Screenshot-169" border="0"></a>
+
+ 
+
 
 ## No 7
 
