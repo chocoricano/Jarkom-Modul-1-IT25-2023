@@ -146,3 +146,19 @@ Berikan kueri filter sehingga wireshark hanya mengambil semua protokol paket yan
 tcp.dstport == 80 || udp.dstport == 80
 
 <a href="https://ibb.co/Db1bqxg"><img src="https://i.ibb.co/VNLNK7p/Screenshot-164.png" alt="Screenshot-164" border="0"></a>
+
+## No 9
+### Soal
+Berikan kueri filter sehingga wireshark hanya mengambil paket yang berasal dari alamat 10.51.40.1 tetapi tidak menuju ke alamat 10.39.55.34!
+### Jawabannya
+
+ip.src == 10.51.40.1 && ip.dst != 10.39.55.34
+
+<a href="https://ibb.co/cxC7QMT"><img src="https://i.ibb.co/52nfLtc/Screenshot-165.png" alt="Screenshot-165" border="0"></a>
+
+## No 10
+### Soal
+Sebutkan kredensial yang benar ketika user mencoba login menggunakan Telnet!
+
+
+
