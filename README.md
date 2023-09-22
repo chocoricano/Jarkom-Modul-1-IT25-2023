@@ -53,6 +53,17 @@ setelah ditemukan yaitu gunicorn maka kita inputkan sehingga mendapatkan flagnya
 
 [![JJTmYCB.md.jpg](https://iili.io/JJTmYCB.md.jpg)](https://freeimage.host/i/JJTmYCB)
 
+## No 3
+#### Soal
+Dapin sedang belajar analisis jaringan. Bantulah Dapin untuk mengerjakan soal berikut:
+nc 10.21.78.111 13590
+#### Analisis Soal
+Pada saat kita melakukan nc 10.21.78.111 13590 pada terminal diminta untuk menghitung banyak paket yang tercapture dengan IP source maupun destination address adalah 239.255.255.250 dengan port 3702
+#### Jawaban
+dengan menggunakan query  (ip.src == 239.255.255.250 || ip.dst == 239.255.255.250) && udp.port == 3702 untuk memfilter paket, terdapat 16 paket
+<a href="https://ibb.co/BgmZRg8"><img src="https://i.ibb.co/30wNH0t/Screenshot-2023-09-22-123356.png" alt="Screenshot-2023-09-22-123356" border="0"></a>
+<a href="https://ibb.co/BgmZRg8"><img src="https://i.ibb.co/30wNH0t/Screenshot-2023-09-22-123356.png" alt="Screenshot-2023-09-22-123356" border="0"></a>
+
 ## No 4
 
 ### Soal
