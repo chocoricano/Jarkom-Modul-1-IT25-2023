@@ -137,3 +137,12 @@ Download dan buka file pada soal di wireshark kemudian lakukan filtering dengan 
 kemudian akses nc untuk memasukkan jawabannya sehingga kita dapatkan flagnya
 
 [![JJu9i6N.md.jpg](https://iili.io/JJu9i6N.md.jpg)](https://freeimage.host/i/JJu9i6N)
+
+## No 8
+### Soal
+Berikan kueri filter sehingga wireshark hanya mengambil semua protokol paket yang menuju port 80! (Jika terdapat lebih dari 1 port, maka urutkan sesuai dengan abjad)!
+
+### Jawaban 
+tcp.dstport == 80 || udp.dstport == 80
+
+<a href="https://ibb.co/Db1bqxg"><img src="https://i.ibb.co/VNLNK7p/Screenshot-164.png" alt="Screenshot-164" border="0"></a>
