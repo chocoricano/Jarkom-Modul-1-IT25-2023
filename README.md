@@ -61,10 +61,10 @@ nc 10.21.78.111 13590
 Pada saat kita melakukan nc 10.21.78.111 13590 pada terminal diminta untuk menghitung banyak paket yang tercapture dengan IP source maupun destination address adalah 239.255.255.250 dengan port 3702
 #### Jawaban
 dengan menggunakan query  (ip.src == 239.255.255.250 || ip.dst == 239.255.255.250) && udp.port == 3702 untuk memfilter paket, terdapat 16 paket
-
+<a href="https://ibb.co/qW3Qb3d"><img src="https://i.ibb.co/xftTVtD/Screenshot-158.png" alt="Screenshot-158" border="0"></a>
 
 Lalu ditanyakan juga protokal yang digunakan yaitu UDP
-
+<a href="https://ibb.co/QvCZbLY"><img src="https://i.ibb.co/hFZk7b2/Screenshot-157.png" alt="Screenshot-157" border="0"></a>
 
 
 
